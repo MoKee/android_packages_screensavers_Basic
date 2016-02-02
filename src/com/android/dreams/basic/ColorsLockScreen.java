@@ -23,7 +23,7 @@ import android.os.HandlerThread;
 import android.util.Log;
 import android.view.TextureView;
 import android.view.View;
-import cyanogenmod.externalviews.KeyguardExternalViewProviderService;
+import mokee.externalviews.KeyguardExternalViewProviderService;
 
 /**
  * Plays a delightful show of colors.

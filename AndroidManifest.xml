@@ -24,7 +24,7 @@
             android:icon="@mipmap/colors_icon"
             android:label="@string/color_dream_name">
             <intent-filter>
-                <action android:name="cyanogenmod.externalviews.KeyguardExternalViewProviderService" />
+                <action android:name="mokee.externalviews.KeyguardExternalViewProviderService" />
             </intent-filter>
         </service>
     </application>
